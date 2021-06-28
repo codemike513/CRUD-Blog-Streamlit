@@ -192,7 +192,7 @@ spacy-legacy==3.0.5
 SQLAlchemy==1.2.19
 sqlparse==0.4.1
 srsly==2.4.1
-streamlit @ file:///F:/PYTHON%20GITHUB/STREAMLIT/demo-face-gan-master/streamlit-0.68.0-py2.py3-none-any.whl
+streamlit==0.68.0
 tensorboard==2.5.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
